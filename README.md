@@ -1,4 +1,4 @@
-# generalized-quadratic-multiple-knapsack-problem
+# A hybrid evolutionary search for the generalized quadratic multiple knapsack problem
 This repository includes the source code and the best solution certificates of the proposed HESA algorithm published in an EJOR paper titled with "A hybrid evolutionary search for the generalized quadratic multiple knapsack problem".
 
 The two sets of 96 benchmark instances were first introduced in Saraçand Sipahioglu (2014) and later used in Adouani et al. (2019) , Avci and Topaloglu (2017) , Chen and Hao (2016). To facilitate the further research, we upload the instances here.
@@ -13,4 +13,5 @@ Reference papers to the generalized quadratic multiple knapsack problem (GQMKP):
 
 [4].Adouani, Y., Jarboui, B., & Masmoudi, M. (2019). A matheuristic for the 0–1 generalized quadratic multiple knapsack problem. In Optimization letters . https: //doi.org/10.1007/s11590-019-01503-z. In press
 
-[5]. Zhou, Q., Hao, J. K., & Wu, Q. (2022). A hybrid evolutionary search for the generalized quadratic multiple knapsack problem. European Journal of Operational Research, 296(3), 788-803.
+Please cite our work as:
+Zhou, Q., Hao, J. K., & Wu, Q. (2022). A hybrid evolutionary search for the generalized quadratic multiple knapsack problem. European Journal of Operational Research, 296(3), 788-803.
