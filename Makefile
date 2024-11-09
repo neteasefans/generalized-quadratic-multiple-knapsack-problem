@@ -1,6 +1,6 @@
 OUTPUT:=HESA_GQMKP
 
-SRC_DIR=./code_new/code_MA_inf/
+SRC_DIR=./src
 OBJS_DIR=./obj
 BUILD_DIR=./build/
 
